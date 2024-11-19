@@ -29,6 +29,14 @@ This project focuses on analyzing the Airbnb dataset for New York City from 2019
 - Discover patterns in room types, minimum nights, and reviews.
 - Provide actionable recommendations for hosts and travelers.
 
+## Technologies Used
+- Programming Language: Python
+- Libraries:
+  - Pandas, NumPy: Data manipulation
+  - Matplotlib, Seaborn: Visualization
+- IDE: Google Colab
+- Version Control: Git
+
 ## Work flow of the project
 - Importing Libraries
 - Loading the Dataset
@@ -41,3 +49,16 @@ This project focuses on analyzing the Airbnb dataset for New York City from 2019
 
 ## Conclusion
 The analysis of Airbnb NYC listings highlights Manhattan as the most expensive and competitive borough, driven by high demand and occupancy for entire homes, while Brooklyn balances affordability and proximity to attractions. Popular neighborhoods like Williamsburg and Hell's Kitchen dominate listings, contrasting with lower demand in Staten Island and the Bronx. Room types influence pricing, with entire homes commanding higher rates, and frequent reviews boosting listing popularity. These insights guide hosts in pricing strategies, targeting guest preferences, and optimizing occupancy in NYC's dynamic market.
+
+## How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/RahulChakravorty/airbnb-2019-analysis.git
+2.Install required Python packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3.Run the Jupyter Notebook to explore the data and visualizations:
+   ```bash
+   jupyter notebook Airbnb_EDA.ipynb
+
