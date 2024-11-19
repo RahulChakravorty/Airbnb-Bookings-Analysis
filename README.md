@@ -1,5 +1,13 @@
 # Airbnb-Bookings-Analysis
 
+## Table Of Contents
+- [Introduction](#Introduction)
+- [Overview](#Overview)
+- [About the Dataset](#About-the-Dataset)
+- [Objectives](#Objectives)
+- [Workflow of the project](#Workflow-of-the-project)
+- [Conclusion](#Conclusion)
+
 ## Introduction
 Airbnb is a platform that connects homeowners with individuals seeking affordable accommodations worldwide. In addition to lodging, the service offers unique experiences—curated activities led by locals—such as sunset surfing, hiking with rescue dogs, and guided food tours.
 
@@ -19,4 +27,15 @@ This project focuses on analyzing the Airbnb dataset for New York City from 2019
 - Discover patterns in room types, minimum nights, and reviews.
 - Provide actionable recommendations for hosts and travelers.
 
+## Work flow of the project
+-Importing Libraries
+-Loading the Dataset
+-Exploring the Dataset
+-Data Cleaning
+-Handling Outliers
+-Data Visualization
+-Solution to Business Objective
+-Conclusion
 
+## Conclusion
+The analysis of Airbnb NYC listings highlights Manhattan as the most expensive and competitive borough, driven by high demand and occupancy for entire homes, while Brooklyn balances affordability and proximity to attractions. Popular neighborhoods like Williamsburg and Hell's Kitchen dominate listings, contrasting with lower demand in Staten Island and the Bronx. Room types influence pricing, with entire homes commanding higher rates, and frequent reviews boosting listing popularity. These insights guide hosts in pricing strategies, targeting guest preferences, and optimizing occupancy in NYC's dynamic market.
