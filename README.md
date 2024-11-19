@@ -5,7 +5,7 @@
 - [Overview](#Overview)
 - [About the Dataset](#About-the-Dataset)
 - [Objectives](#Objectives)
-- [Workflow of the project](#Workflow-of-the-project)
+- [Workflow of the project](#Work-flow-of-the-project)
 - [Conclusion](#Conclusion)
 
 ## Introduction
@@ -16,7 +16,9 @@ New York City, renowned for its influence on global finance, politics, culture, 
 ## Overview
 This project focuses on analyzing the Airbnb dataset for New York City from 2019 to uncover trends, patterns, and insights. The analysis includes exploratory data analysis (EDA), data visualization, and business recommendations to provide valuable information for travelers, hosts, and property managers.
 
-## About the Dataset - [AIRBNB BOOKINGS](https://drive.google.com/file/d/1RQ1Cqk0BdknEbA55CUaNNXTwuM_iZUn2/view?usp=sharing)
+## About the Dataset
+###[AIRBNB BOOKINGS](https://drive.google.com/file/d/1RQ1Cqk0BdknEbA55CUaNNXTwuM_iZUn2/view?usp=sharing)
+
 - The dataset consists of 48,895 Airbnb listings in New York City from 2019. It contains 16 columns, with details about each listing.
 - The Data includes both categorical and numeric values wherein name, host_name, neighbourhood_group, neighbourhood, room_type are categorical columns and id, host_id, latitude, longitude, price, minimum_nights, number_of_reviews, reviews_per_month,calculated_host_listings_count, availability_365 are numerical columns.
 - There are five different neighborhood groups, 221 neighborhoods, 37,457 hosts, 48,895 listings, and three types of room available for rental.
@@ -28,14 +30,14 @@ This project focuses on analyzing the Airbnb dataset for New York City from 2019
 - Provide actionable recommendations for hosts and travelers.
 
 ## Work flow of the project
--Importing Libraries
--Loading the Dataset
--Exploring the Dataset
--Data Cleaning
--Handling Outliers
--Data Visualization
--Solution to Business Objective
--Conclusion
+- Importing Libraries
+- Loading the Dataset
+- Exploring the Dataset
+- Data Cleaning
+- Handling Outliers
+- Data Visualization
+- Solution to Business Objective
+- Conclusion
 
 ## Conclusion
 The analysis of Airbnb NYC listings highlights Manhattan as the most expensive and competitive borough, driven by high demand and occupancy for entire homes, while Brooklyn balances affordability and proximity to attractions. Popular neighborhoods like Williamsburg and Hell's Kitchen dominate listings, contrasting with lower demand in Staten Island and the Bronx. Room types influence pricing, with entire homes commanding higher rates, and frequent reviews boosting listing popularity. These insights guide hosts in pricing strategies, targeting guest preferences, and optimizing occupancy in NYC's dynamic market.
