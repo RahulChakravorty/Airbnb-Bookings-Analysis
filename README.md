@@ -58,12 +58,12 @@ The analysis of Airbnb NYC listings highlights Manhattan as the most expensive a
 1. Clone this repository:
    ```bash
    git clone https://github.com/RahulChakravorty/Airbnb-Bookings-Analysis.git
-   ```
-2.Install required Python packages:
+   ```  
+2. Install required Python packages:
    ```bash
    pip install -r requirements.txt
    ```
-3.Run the Jupyter Notebook to explore the data and visualizations:
+3. Run the Jupyter Notebook to explore the data and visualizations:
    ```bash
    jupyter notebook EDA_AirBNB.ipynb
    ```
