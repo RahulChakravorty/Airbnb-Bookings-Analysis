@@ -5,8 +5,11 @@
 - [Overview](#Overview)
 - [About the Dataset](#About-the-Dataset)
 - [Objectives](#Objectives)
+- [Technologies Used](#Technologies-Used)
 - [Workflow of the project](#Work-flow-of-the-project)
 - [Conclusion](#Conclusion)
+- [How to Run](#How-to-Run)
+- [License](License)
 
 ## Introduction
 Airbnb is a platform that connects homeowners with individuals seeking affordable accommodations worldwide. In addition to lodging, the service offers unique experiences—curated activities led by locals—such as sunset surfing, hiking with rescue dogs, and guided food tours.
@@ -51,14 +54,19 @@ This project focuses on analyzing the Airbnb dataset for New York City from 2019
 The analysis of Airbnb NYC listings highlights Manhattan as the most expensive and competitive borough, driven by high demand and occupancy for entire homes, while Brooklyn balances affordability and proximity to attractions. Popular neighborhoods like Williamsburg and Hell's Kitchen dominate listings, contrasting with lower demand in Staten Island and the Bronx. Room types influence pricing, with entire homes commanding higher rates, and frequent reviews boosting listing popularity. These insights guide hosts in pricing strategies, targeting guest preferences, and optimizing occupancy in NYC's dynamic market.
 
 ## How to Run
+
 1. Clone this repository:
    ```bash
-   git clone https://github.com/RahulChakravorty/airbnb-2019-analysis.git
+   git clone https://github.com/RahulChakravorty/Airbnb-Bookings-Analysis.git
+   ```
 2.Install required Python packages:
    ```bash
    pip install -r requirements.txt
    ```
 3.Run the Jupyter Notebook to explore the data and visualizations:
    ```bash
-   jupyter notebook Airbnb_EDA.ipynb
+   jupyter notebook EDA_AirBNB.ipynb
+   ```
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/RahulChakravorty/Airbnb-Bookings-Analysis/blob/main/LICENSE) file for details.
