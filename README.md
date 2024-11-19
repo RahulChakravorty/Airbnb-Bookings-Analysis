@@ -17,7 +17,7 @@ New York City, renowned for its influence on global finance, politics, culture, 
 This project focuses on analyzing the Airbnb dataset for New York City from 2019 to uncover trends, patterns, and insights. The analysis includes exploratory data analysis (EDA), data visualization, and business recommendations to provide valuable information for travelers, hosts, and property managers.
 
 ## About the Dataset
-###[AIRBNB BOOKINGS](https://drive.google.com/file/d/1RQ1Cqk0BdknEbA55CUaNNXTwuM_iZUn2/view?usp=sharing)
+**[AIRBNB BOOKINGS](https://drive.google.com/file/d/1RQ1Cqk0BdknEbA55CUaNNXTwuM_iZUn2/view?usp=sharing)**
 
 - The dataset consists of 48,895 Airbnb listings in New York City from 2019. It contains 16 columns, with details about each listing.
 - The Data includes both categorical and numeric values wherein name, host_name, neighbourhood_group, neighbourhood, room_type are categorical columns and id, host_id, latitude, longitude, price, minimum_nights, number_of_reviews, reviews_per_month,calculated_host_listings_count, availability_365 are numerical columns.
